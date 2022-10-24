@@ -19,7 +19,6 @@ import re
 import string
 from PIL import Image
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from langdetect import detect
 from nltk.stem import SnowballStemmer
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import CountVectorizer
