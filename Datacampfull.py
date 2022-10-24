@@ -10,7 +10,6 @@ Created on Mon Oct 24 12:47:41 2022
 import snscrape.modules.twitter as sntwitter
 from textblob import TextBlob
 import sys
-import tweepy
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
